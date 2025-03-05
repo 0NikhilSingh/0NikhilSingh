@@ -1,13 +1,20 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=N1kh1lS1ngh25.N1kh1lS1ngh25" />
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+👋+I'm+Nikhil;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+👋+I'm+Nikhil;" />
 </div>
 
 <hr>
 <p>I am an experienced <b>Solutions Architect</b> specializing in infrastructure automation and cloud optimization. Proven track record of developing automated solutions for AWS environments reducing operational costs and improving system reliability while streamlining complex workflows.</p>
 <br/>
-
+<div align="center">
+## About me
+</div>
+<div>
+* **In-Progress:** Im currently working on a challenge by "Cloud Resume challenge(AWS)" by Forest Brazeal
+* **Learning :** Currently learning Goland 
+* **Completed :** Acumatica CI/CD pipeline for customization build,backup and publish (Source code coming soon)
+</div>
 <h2 align="center">⚙️ Skills</h2>
 
 <br/>
@@ -15,10 +22,14 @@
     <img src="https://skillicons.dev/icons?i=aws,terraform,python,golang,bash,powershell,html,css,mysql,linux,jenkins,githubactions,docker,git,bitbucket,grafana&perline=08"/><br>
 </div>
 <br/>
-<h2 align="center"> 📈 GitHub Stats</h2>
+
 <div align="center">
+## 📈 GitHub Stats
+
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=0NikhilSingh&show_icons=true&theme=radical)
+
 </div>
+
 
 
 <h2 align="center"> 🌐 Connect with me</h2>
