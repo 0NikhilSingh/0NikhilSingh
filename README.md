@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=0NikhilSingh&show_icons=true&theme=radical)
 
