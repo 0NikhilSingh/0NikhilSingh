@@ -7,13 +7,12 @@
 <hr>
 <p>I am an experienced <b>Solutions Architect</b> specializing in infrastructure automation and cloud optimization. Proven track record of developing automated solutions for AWS environments reducing operational costs and improving system reliability while streamlining complex workflows.</p>
 <br/>
-<div align="center">
-## About me
-</div>
-<div>
+<h2 align="center">About me</h2>
+  
 * **In-Progress:** Im currently working on a challenge by "Cloud Resume challenge(AWS)" by Forest Brazeal
 * **Learning :** Currently learning Goland 
-* **Completed :** Acumatica CI/CD pipeline for customization build,backup and publish (Source code coming soon)
+* **Completed :** Acumatica CI/CD pipeline for customization build,backup and publish
+                 (Source code coming soon)
 </div>
 <h2 align="center">⚙️ Skills</h2>
 
