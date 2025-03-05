@@ -4,14 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+👋+I'm+Nikhil;" />
 </div>
 
-<hr>
 <p>I am an experienced <b>Solutions Architect</b> specializing in infrastructure automation and cloud optimization. Proven track record of developing automated solutions for AWS environments reducing operational costs and improving system reliability while streamlining complex workflows.</p>
 <br/>
 <h2 align="center">About me</h2>
   
-* **In-Progress:** Im currently working on a challenge by "Cloud Resume challenge(AWS)" by Forest Brazeal
-* **Learning :** Currently learning Goland 
-* **Completed :** Acumatica CI/CD pipeline for customization build,backup and publish
+* 🔭**In-Progress:** Im currently working on a challenge by "Cloud Resume challenge(AWS)" by Forest Brazeal
+* 🌱**Learning :** Currently learning Goland 
+* ✅**Completed :** Acumatica CI/CD pipeline for customization build,backup and publish
                  (Source code coming soon)
 </div>
 <h2 align="center">⚙️ Skills</h2>
