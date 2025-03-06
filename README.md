@@ -25,6 +25,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=0NikhilSingh&show_icons=true&theme=radical)
+![ff](https://camo.githubusercontent.com/343bc0648ba07ccc3de8f68caf6404ea609f1b14b117c07bb3b391c9688b56c0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d304e696b68696c53696e67682673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 
 </div>
 
